@@ -6,17 +6,14 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "UMG COBAN";
 
     public App() {}
 
     public static void main(String[] args) {
+        System.out.println("Umg Coban");
         System.out.println("Josue Isem");
-        System.out.println(new App().getMessage());
-    }
+        System.out.println("2025");
 
-    private final String getMessage() {
-        return message;
     }
 
 }
