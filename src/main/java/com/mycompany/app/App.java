@@ -14,7 +14,7 @@ public class App
         System.out.println("Josue Isem");
         System.out.println("2025");
         System.out.println("2sldfjlskd");
-        System.out.println("Mi amorcito bella <3 Peita")
+        System.out.println("Mi amorcito bella <3 Peita");
 
     }
 
